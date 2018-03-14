@@ -1,0 +1,176 @@
+{
+  "basics": {
+    "name": "Emie Pelletier",
+    "label": "Intégratrice/ Designer web",
+    "picture": "",
+    "email": "emiepelletier@hotmail.com",
+    "phone": "418.554.9242",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "1062 rue de l'Améthyste",
+      "postalCode": "G2L 2Z4",
+      "city": "Québec",
+      "countryCode": "Canada",
+      "region": "QC"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "SSQ Groupe financier",
+      "position": "Préposée au service des administrateurs",
+      "website": "https://ssq.ca",
+      "startDate": "2017-05-01",
+      "endDate": "...",
+      "summary": "",
+      "highlights": [
+        "Traiter les adhésions des clients nouvellement retraités",
+        "Exécuter les demandes des adhérents",
+        "Envoyer des informations aux adhérents concernés"
+      ]
+    },
+    {
+      "company": "Pharmacie Brunet",
+      "position": "Commis de plancher/ caissière",
+      "website": "https://www.brunet.ca",
+      "startDate": "2014-01-01",
+      "endDate": "2017-05-01",
+      "summary": "",
+      "highlights": [
+        "Répondre aux besoins spécifiques de la clientèle et des pharmaciens",
+        "Offrir un excellent service à la clientèle",
+        "Mettre en tablette la marchandise"
+      ]
+    },
+    {
+      "company": "Galerie d'art Centre Materia",
+      "position": "Stagiaire en communication",
+      "website": "http://centremateria.com/",
+      "startDate": "2016-06-01",
+      "endDate": "2016-07-01",
+      "summary": "",
+      "highlights": [
+        "Promouvoir la nouvelle identité par différents outils de communication",
+        "Actualiser les plateformes médiatiques, le site web (Wordpress) et l’infolettre (MailChimp)",
+        "Prendre contact avec des fournisseurs et assurer un suivi",
+        "Réaliser un plan de communication pour le maintien de l’identité à long-terme"
+      ]
+    },
+    {
+      "company": "Festival d'été de Québec",
+      "position": "Préposée à l'information/ Billeterie",
+      "website": "https://www.infofestival.com/",
+      "startDate": "2013-07-01",
+      "endDate": "2016-07-01",
+      "summary": "",
+      "highlights": [
+        "Répondre aux besoins des clients francophones et anglophones",
+        "Utiliser les logiciels White Label et Intellitix pour la remise des billets"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Défilé de mode Paradox ",
+      "position": "Membre du comité Création artistique (Université Laval)",
+      "website": "",
+      "startDate": "2015-09-01",
+      "endDate": "2016-03-01",
+      "summary": "",
+      "highlights": [
+        "Prendre contact avec les fournisseurs (audiovisuel)",
+        "Créer le design de la salle",
+        "Diriger les fournisseurs lors du montage",
+        "S’assurer du bon déroulement de la soirée"
+      ]
+    },
+    {
+      "organization": "Salon des communications",
+      "position": "Membre du comité Publicité et promotion (Université Laval)",
+      "website": "",
+      "startDate": "2014-09-01",
+      "endDate": "2015-04-1",
+      "summary": "",
+      "highlights": [
+        "Concevoir le contenu visuel des billets et des affiches",
+        "Créer des concepts pour les campagnes publicitaires (vidéos promotionnels)",
+        "Prendre contact avec des entreprises d’objets promotionnels"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cégep Ste-Foy",
+      "area": "Techniques d'intégration multimédia - Web et apps",
+      "studyType": "Diplôme d'études collégiales",
+      "startDate": "2017-08-01",
+      "endDate": "...",
+      "gpa": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "Université Laval",
+      "area": "Communication publique",
+      "studyType": "Diplôme d'études universitaires",
+      "startDate": "2014-09-01",
+      "endDate": "2017-05-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Cégep Garneau",
+      "area": "Arts et lettres - Profil langues",
+      "studyType": "Diplôme d'études collégiales",
+      "startDate": "2012-08-01",
+      "endDate": "2014-05-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Anglais parlé / écrit",
+      "fluency": "Intermédiaire"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [
+        "Histoire de l'art",
+        "Musique",
+        "Mode",
+        "Voyages"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": "Elles vous seront fournis sur demande."
+    }
+  ]
+}
